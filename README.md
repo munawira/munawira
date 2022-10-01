@@ -2,7 +2,6 @@ Hi! I am Munawira Kotyad.
 
 I am currently pursuing my Phd in Computer Science from [IIT Bombay](https://www.cse.iitb.ac.in/). My research interests lie in Microarchitecture Performance. I am primarily conducting research in the area of Address Translation bottleneckss for modern server and irregular workloads. 
 
-I am working with [Biswa](https://www.cse.iitb.ac.in/~biswa/) at IIT Bombay.
 
 I have a Master's  of Science Degree from North Carolina State University, Raleigh. Most of my courses and projects were focused on Microarchitecture, Operating Systems and Parallel computing. 
 
