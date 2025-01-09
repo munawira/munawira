@@ -1,7 +1,6 @@
 Hi! I am Munawira Kotyad.
 
-I am currently pursuing my Phd in Computer Science from [IIT Bombay](https://www.cse.iitb.ac.in/). My research interests lie in Microarchitecture Performance. I am primarily conducting research in the area of Address Translation bottleneckss for modern server and irregular workloads. 
-
+I am currently pursuing my Phd in Computer Science from [IIT Bombay](https://www.cse.iitb.ac.in/). My research interests lie in GPGPU Architecture and Performance, Microarchitecture Performance and OS-Microarch Interactioins. I am primarily conducting research in the area GPU microarchitecture enhancements to accelerate non traditional, scientific and AI GPGPU workloads. The research involves designing novel out of order scheduling techniques and front end pipeline redesign to extract Instruction Level Parallelism from applications with limited data level parallelism.
 
 I have a Master's  of Science Degree from North Carolina State University, Raleigh. Most of my courses and projects were focused on Microarchitecture, Operating Systems and Parallel computing. 
 
